@@ -1,10 +1,18 @@
 [
   
     {
+      "title"    : "ifeel, Madrid based health-tech startup with an aim to democratize access to therapy, raises €5.5M",
+      "category" : "",
+      "tags"     : "Blog, B2B, Sample",
+      "url"      : "/portfolio/press-release/",
+      "date"     : "2021-10-21 20:20:32 +0200"
+    } ,
+  
+    {
       "title"    : "An NGO with a mission to reduce food waste",
       "category" : "",
       "tags"     : "Blog, B2B, Sample",
-      "url"      : "/portfolio.gtihub.io/foodcircle-article/",
+      "url"      : "/portfolio/foodcircle-article/",
       "date"     : "2021-10-21 20:20:32 +0200"
     } ,
   
@@ -12,7 +20,7 @@
       "title"    : "3 Proven Instagram Strategies to Take Your Cannabis Business to the Next Level",
       "category" : "",
       "tags"     : "Blog, B2B, Sample",
-      "url"      : "/portfolio.gtihub.io/cannabis-insta/",
+      "url"      : "/portfolio/cannabis-insta/",
       "date"     : "2021-10-21 20:20:32 +0200"
     } 
   

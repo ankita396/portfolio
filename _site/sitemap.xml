@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/portfolio.gtihub.io/cannabis-insta/</loc>
+<loc>http://localhost:4000/portfolio/cannabis-insta/</loc>
 <lastmod>2021-10-21T20:20:32+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.gtihub.io/foodcircle-article/</loc>
+<loc>http://localhost:4000/portfolio/foodcircle-article/</loc>
 <lastmod>2021-10-21T20:20:32+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.gtihub.io/about/</loc>
+<loc>http://localhost:4000/portfolio/press-release/</loc>
+<lastmod>2021-10-21T20:20:32+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.gtihub.io/</loc>
+<loc>http://localhost:4000/portfolio/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio.gtihub.io/tags/</loc>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/tags/</loc>
 </url>
 </urlset>
