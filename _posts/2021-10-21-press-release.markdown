@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "ifeel, Madrid based health-tech startup with an aim to democratize access to therapy, raises €5.5M"
-date:   2021-10-21 20:20:32 +0200
-description: Press Release
-tags: [Blog, B2B, Sample]
+title:  Press Release Sample
+date:   2021-05-05 20:20:32 +0200
+description: 
+tags: [Press Release, Marketing, B2B, Sample]
 author: Ankita Parida
 ---
-
+# ifeel, Madrid based health-tech startup with an aim to democratize access to therapy, raises €5.5M
 ### *ifeel’s mission is to facilitate personalized online therapy with the help of licensed health professionals, based on a subscription model.*
 
 **Madrid, Spain., May. 5, 2021** -- ifeel, the disruptive mental health-focused startup, has scored €5.5M in Series A funding led by pan-European Venture Capital firm, Nauta Capital.  
@@ -22,7 +22,7 @@ Following a monumental shift in how we define ‘working’ nowadays, it makes c
 
 **About ifeel**:
 
-ifeel aims to democratize therapy and remove the luxurious aspect attached to it. It’s an AI-powered, emotional well-being platform that offers one-on-one therapy sessions with licensed psychologists and various other self-care tools to empower you to take better care of your mental health. Learn more at [ifeelonline](https://ifeelonline.com/en/).
+ifeel aims to democratize therapy and remove the luxurious aspect attached to it. It’s an AI-powered, emotional well-being platform that offers one-on-one therapy sessions with licensed psychologists and various other self-care tools to empower you to take better care of your mental health. Learn more at [ifeelonline](https://ifeel.com/en/).
 
 
 

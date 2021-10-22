@@ -1194,6 +1194,15 @@ pre code {
   width: 100%;
 }
 
+.page-no-image {
+  position: relative;
+  padding: 0;
+  margin: 0;
+  height: 100px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
 .page-content {
   margin-top: -80px;
   margin-bottom: 100px;

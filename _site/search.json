@@ -1,27 +1,43 @@
 [
   
     {
-      "title"    : "ifeel, Madrid based health-tech startup with an aim to democratize access to therapy, raises €5.5M",
+      "title"    : "SEO Content Writing Sample",
       "category" : "",
-      "tags"     : "Blog, B2B, Sample",
-      "url"      : "/portfolio/press-release/",
+      "tags"     : "Blog, SEO, B2C, Sample",
+      "url"      : "/portfolio/SEO-Content-Sample-1/",
       "date"     : "2021-10-21 20:20:32 +0200"
     } ,
   
     {
-      "title"    : "An NGO with a mission to reduce food waste",
+      "title"    : "Email Newsletter Sample",
       "category" : "",
-      "tags"     : "Blog, B2B, Sample",
-      "url"      : "/portfolio/foodcircle-article/",
+      "tags"     : "Email, newsletter, B2C, Sample",
+      "url"      : "/portfolio/email-newsletter/",
       "date"     : "2021-10-21 20:20:32 +0200"
     } ,
   
     {
-      "title"    : "3 Proven Instagram Strategies to Take Your Cannabis Business to the Next Level",
+      "title"    : "Blog sample (B2B)",
       "category" : "",
-      "tags"     : "Blog, B2B, Sample",
+      "tags"     : "Blog, B2B, Content Marketing, Sample",
       "url"      : "/portfolio/cannabis-insta/",
       "date"     : "2021-10-21 20:20:32 +0200"
+    } ,
+  
+    {
+      "title"    : "Feature Article sample",
+      "category" : "",
+      "tags"     : "Feature Article, B2C, Marketing, Sample",
+      "url"      : "/portfolio/foodcircle-article/",
+      "date"     : "2021-05-21 20:20:32 +0200"
+    } ,
+  
+    {
+      "title"    : "Press Release Sample",
+      "category" : "",
+      "tags"     : "Press Release, Marketing, B2B, Sample",
+      "url"      : "/portfolio/press-release/",
+      "date"     : "2021-05-05 20:20:32 +0200"
     } 
   
 ]
