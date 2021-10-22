@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Email Newsletter Sample
-date:   2021-10-21 20:20:32 +0200
+date:   2021-05-21 20:20:32 +0200
 description:  Email Newsletter Sample
 tags: [Email, newsletter, B2C, Sample]
 author: Ankita Parida

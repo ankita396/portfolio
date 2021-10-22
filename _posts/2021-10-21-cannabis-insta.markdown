@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blog sample (B2B)"
-date:   2021-10-21 20:20:32 +0200
+date:   2021-05-21 20:20:32 +0200
 description: 
 img: Cannabis.jpeg
 tags: [Blog, B2B, Content Marketing, Sample]

@@ -5,23 +5,7 @@
       "category" : "",
       "tags"     : "Blog, SEO, B2C, Sample",
       "url"      : "/portfolio/SEO-Content-Sample-1/",
-      "date"     : "2021-10-21 20:20:32 +0200"
-    } ,
-  
-    {
-      "title"    : "Email Newsletter Sample",
-      "category" : "",
-      "tags"     : "Email, newsletter, B2C, Sample",
-      "url"      : "/portfolio/email-newsletter/",
-      "date"     : "2021-10-21 20:20:32 +0200"
-    } ,
-  
-    {
-      "title"    : "Blog sample (B2B)",
-      "category" : "",
-      "tags"     : "Blog, B2B, Content Marketing, Sample",
-      "url"      : "/portfolio/cannabis-insta/",
-      "date"     : "2021-10-21 20:20:32 +0200"
+      "date"     : "2021-05-21 20:20:32 +0200"
     } ,
   
     {
@@ -29,6 +13,22 @@
       "category" : "",
       "tags"     : "Feature Article, B2C, Marketing, Sample",
       "url"      : "/portfolio/foodcircle-article/",
+      "date"     : "2021-05-21 20:20:32 +0200"
+    } ,
+  
+    {
+      "title"    : "Email Newsletter Sample",
+      "category" : "",
+      "tags"     : "Email, newsletter, B2C, Sample",
+      "url"      : "/portfolio/email-newsletter/",
+      "date"     : "2021-05-21 20:20:32 +0200"
+    } ,
+  
+    {
+      "title"    : "Blog sample (B2B)",
+      "category" : "",
+      "tags"     : "Blog, B2B, Content Marketing, Sample",
+      "url"      : "/portfolio/cannabis-insta/",
       "date"     : "2021-05-21 20:20:32 +0200"
     } ,
   

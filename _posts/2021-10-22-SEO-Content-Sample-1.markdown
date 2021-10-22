@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEO Content Writing Sample
-date:   2021-10-21 20:20:32 +0200
+date:   2021-05-21 20:20:32 +0200
 description: SEO Content Writing Sample 1
 img: Painting-aluminum-windows.jpeg
 tags: [Blog, SEO, B2C, Sample]
