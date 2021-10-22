@@ -9,7 +9,7 @@ author: Ankita Parida
 ---
 
 Setting up a Social Media Marketing strategy is hard. 
-Adding to that, putting social media and Cannabis into the mix makes it even more trickier - how to take your dispensary business to the next level when Instagram is known to be somewhat hostile to the promotion of Cannabis businesses? 
+Adding to that, putting social media and Cannabis into the mix makes it even more trickier - how to take your dispensary business to the next level when Instagram is known to be somewhat hostile to the promotion of Cannabis business? 
 
 Instagram has laid out a few guidelines for the promotion of Cannabis dispensaries on its platform. So, if you follow those, there's no reason to miss out on the enormous marketing reach it has to offer. 
 
