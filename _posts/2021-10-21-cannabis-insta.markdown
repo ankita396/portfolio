@@ -36,21 +36,20 @@ It gets tricky because Instagram doesn't like to see posts that directly mention
 So where does that leave us? Let's discuss how to keep your content calendar full and updated for months in advance. 
 
 - ### Educational content
-Take advantage of this opportunity and educate people about the varieties you sell, the industry in general, the history behind it, trailblazers in the community who paved the way to where we stand today, the chemistry and biology of what happens once it enters our bodies, why and how it's deemed medicinal, to name a few.
+Take advantage of this opportunity and educate people about the varieties you sell, the industry in general, the history behind it, trailblazers in the community who paved the way to where we stand today, the chemistry and biology of what happens once it enters our bodies, why and how it's deemed medicinal, to name a few.<br>
 *The key is to position your content as strictly educational instead of commercial.*
 
 - ### Latest news (pertaining to your city, state, country, or the industry in general)
-There's always some new and interesting development taking place around the world regarding this up-and-coming industry. 
+There's always some new and interesting development taking place around the world regarding this up-and-coming industry.<br>
 *Get your users up to speed with the latest news and keep them well-informed.*
 
 - ### Host Q&As: 
 Q&As can be an excellent source of connecting with your audience and essentially doing market research. 
-Ask people about their pattern of cannabis consumption, their favorite places to go or activities to do when they are baked, their favorite munchies, anything they'd like to see in the market that is missing.
+Ask people about their pattern of cannabis consumption, their favorite places to go or activities to do when they are baked, their favorite munchies, anything they'd like to see in the market that is missing.<br>
 *Use it as a tool that serves the dual purpose of striking a chord with your following and assessing the market.*
 
-
 - ### Share behind-the-scenes of running and growing (\*wink) your business: 
-Bring visibility to your backend efforts. It could be a parade you attended that celebrated legalization in a state or country, or a campaign your founders or employees back that supports the cause and culture. 
+Bring visibility to your backend efforts. It could be a parade you attended that celebrated legalization in a state or country, or a campaign your founders or employees back that supports the cause and culture.<br>
 *As long as it feels sincere, your followers will be delighted to learn more about you.*
 
 ## 3. Support a cause greater than yourself
