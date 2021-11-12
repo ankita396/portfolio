@@ -32,7 +32,7 @@ A **Minor** version is released on the implementation of backwards-compatible (o
 
 A **Patch** version is released with bug fixes and minor improvements which do not cause any backward incompatibility.
    
-Example: 
+**Example:** 
 ```
 v1.3.2 - signifies this is the first major release. It has 3 minor versions with 2 patches in this minor version
 ```

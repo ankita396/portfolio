@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-11-12T10:22:02+01:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Portfolio - Ankita Parida</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-11-12T10:31:38+01:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Portfolio - Ankita Parida</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><author><name>Ankita Parida</name></author><entry><title type="html">Technical Writing Sample</title><link href="http://localhost:4000/portfolio/api-versioning/" rel="alternate" type="text/html" title="Technical Writing Sample" /><published>2021-11-11T19:20:32+01:00</published><updated>2021-11-11T19:20:32+01:00</updated><id>http://localhost:4000/portfolio/api-versioning</id><content type="html" xml:base="http://localhost:4000/portfolio/api-versioning/">&lt;h1 id=&quot;api-versioning-and-support-cycle&quot;&gt;API Versioning and Support Cycle&lt;/h1&gt;
 &lt;hr /&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;A &lt;strong&gt;Patch&lt;/strong&gt; version is released with bug fixes and minor improvements which do not cause any backward incompatibility.&lt;/p&gt;
 
-&lt;p&gt;Example:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;v1.3.2 - signifies this is the first major release. It has 3 minor versions with 2 patches in this minor version
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
