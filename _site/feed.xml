@@ -1,5 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-10-22T16:34:36+02:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Portfolio - Ankita Parida</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Ankita Parida</name></author><entry><title type="html">Blog sample (B2B)</title><link href="http://localhost:4000/portfolio/cannabis-insta/" rel="alternate" type="text/html" title="Blog sample (B2B)" /><published>2021-05-21T20:20:32+02:00</published><updated>2021-05-21T20:20:32+02:00</updated><id>http://localhost:4000/portfolio/cannabis-insta</id><content type="html" xml:base="http://localhost:4000/portfolio/cannabis-insta/">&lt;h1 id=&quot;3-proven-instagram-strategies-to-take-your-cannabis-business-to-the-next-level&quot;&gt;3 Proven Instagram Strategies to Take Your Cannabis Business to the Next Level&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/portfolio/" rel="alternate" type="text/html" /><updated>2021-11-12T10:22:02+01:00</updated><id>http://localhost:4000/portfolio/feed.xml</id><title type="html">Portfolio - Ankita Parida</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Ankita Parida</name></author><entry><title type="html">Technical Writing Sample</title><link href="http://localhost:4000/portfolio/api-versioning/" rel="alternate" type="text/html" title="Technical Writing Sample" /><published>2021-11-11T19:20:32+01:00</published><updated>2021-11-11T19:20:32+01:00</updated><id>http://localhost:4000/portfolio/api-versioning</id><content type="html" xml:base="http://localhost:4000/portfolio/api-versioning/">&lt;h1 id=&quot;api-versioning-and-support-cycle&quot;&gt;API Versioning and Support Cycle&lt;/h1&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;versioning&quot;&gt;Versioning&lt;/h2&gt;
+&lt;p&gt;ABC supports versioning so that our internal and external stakeholders (developers, users, businesses) can stay up-to-date with changes and new releases.&lt;/p&gt;
+
+&lt;p&gt;We follow the &lt;a href=&quot;https://semver.org/&quot;&gt;Semantic Versioning 2.0.0&lt;/a&gt; convention.&lt;/p&gt;
+
+&lt;p&gt;Versions are named as follows: MAJOR.MINOR.PATCH&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;Major&lt;/strong&gt; version is released when backwards-incompatible (outlined below) changes are implemented. Following is a non-exhaustive list of changes that warrants a major version release:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Removal of an API endpoint&lt;/li&gt;
+  &lt;li&gt;Removal of an API attribute&lt;/li&gt;
+  &lt;li&gt;Change in any API data formats&lt;/li&gt;
+  &lt;li&gt;Database changes which can not be migrated automatically&lt;/li&gt;
+  &lt;li&gt;Change in script syntax, which may break existing scripts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;Minor&lt;/strong&gt; version is released on the implementation of backwards-compatible (outlined below) changes. Following is a non-exhaustive list of changes that warrants a minor version release:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Addition of an API endpoint&lt;/li&gt;
+  &lt;li&gt;Addition of an API attribute&lt;/li&gt;
+  &lt;li&gt;Database changes which can be migrated automatically&lt;/li&gt;
+  &lt;li&gt;Change in script syntax which can be migrated automatically&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;Patch&lt;/strong&gt; version is released with bug fixes and minor improvements which do not cause any backward incompatibility.&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;v1.3.2 - signifies this is the first major release. It has 3 minor versions with 2 patches in this minor version
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;curious-about-the-latest-changes&quot;&gt;Curious about the latest changes?&lt;/h3&gt;
+&lt;p&gt;The current version is &lt;strong&gt;v3.4.3&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find more information about our version timelines, release dates and changes on our &lt;a href=&quot;https://fakelink.com/releases&quot;&gt;changelog&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;h2 id=&quot;deprecation&quot;&gt;Deprecation&lt;/h2&gt;
+&lt;p&gt;To keep our services in line with customer expectations, certain outdated features are replaced with better functionalities from time to time. APIs are also deprecated to minimize critical security risks and to ensure legal compliance. We take the following steps to mitigate the effect of API deprecations and make the transition smoother for our users:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Feature deprecations are released with a minor version.&lt;/li&gt;
+  &lt;li&gt;Part of the feature (which needs to be changed) is deprecated before introducing the backwards-incompatible change. This ensures a wide window for clients to prepare for the upcoming change.&lt;/li&gt;
+  &lt;li&gt;An alternative is usually available at the time of deprecation so no additional transition time is needed once the backwards-incompatible change is introduced.&lt;/li&gt;
+  &lt;li&gt;Deprecated APIs are announced in the changelog of the release where the deprecation was introduced to keep users informed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;support-cycle&quot;&gt;Support cycle&lt;/h2&gt;
+
+&lt;p&gt;We provide support to each major version for a period of at least two years starting from the first release of that major version. The support cycle for the latest major version is continued until a new major version is released.&lt;/p&gt;
+
+&lt;p&gt;During the support period, we do not add minor releases to past major versions, but we may add patch updates if required.&lt;/p&gt;
+
+&lt;p&gt;We do not adhere to a fixed release schedule. Our efforts are always geared towards keeping the platform stable with the least amount of incompatible changes. We aim to minimize the number of major releases and guarantee that there won’t be more than one major release per year.&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&quot;https://ankita396.github.io/portfolio/&quot;&gt;knowledge base&lt;/a&gt; to discover more about our API lifecycle management.&lt;/p&gt;</content><author><name>Ankita Parida</name></author><category term="API" /><category term="Techinical Writing" /><category term="Sample" /><summary type="html">API Versioning and Support Cycle</summary></entry><entry><title type="html">Blog sample (B2B)</title><link href="http://localhost:4000/portfolio/cannabis-insta/" rel="alternate" type="text/html" title="Blog sample (B2B)" /><published>2021-05-21T20:20:32+02:00</published><updated>2021-05-21T20:20:32+02:00</updated><id>http://localhost:4000/portfolio/cannabis-insta</id><content type="html" xml:base="http://localhost:4000/portfolio/cannabis-insta/">&lt;h1 id=&quot;3-proven-instagram-strategies-to-take-your-cannabis-business-to-the-next-level&quot;&gt;3 Proven Instagram Strategies to Take Your Cannabis Business to the Next Level&lt;/h1&gt;
 &lt;p&gt;Setting up a Social Media Marketing strategy is hard. 
 Adding to that, putting social media and Cannabis into the mix makes it even more trickier - how to take your dispensary business to the next level when Instagram is known to be somewhat hostile to the promotion of Cannabis businesses?&lt;/p&gt;
 

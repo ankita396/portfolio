@@ -3,6 +3,7 @@ layout: post
 title:  Press Release Sample
 date:   2021-05-05 20:20:32 +0200
 description: 
+img: press-release.jpeg
 tags: [Press Release, Marketing, B2B, Sample]
 author: Ankita Parida
 ---

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Press Release Sample - Portfolio - Ankita Parida</title>
+	<title>Technical Writing Sample - Portfolio - Ankita Parida</title>
 	<meta name="description" content="">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -53,44 +53,81 @@
     
     <div class="page-image">
       <div class="cover-image"
-        style="background: url(/portfolio/assets/img/press-release.jpeg) center no-repeat; background-size: cover;">
+        style="background: url(/portfolio/assets/img/api-version.jpeg) center no-repeat; background-size: cover;">
       </div>
     </div>
     
     <div class="wrapper">
       <div class="page-content">
         <div class="header-page">
-          <h1 class="page-title">Press Release Sample</h1>
-          <div class="page-date"><time datetime="2021-05-05 20:20:32 +0200">2021, May 05</time></div>
+          <h1 class="page-title">Technical Writing Sample</h1>
+          <div class="page-date"><time datetime="2021-11-11 19:20:32 +0100">2021, Nov 11</time></div>
         </div>
-        <h1 id="ifeel-madrid-based-health-tech-startup-with-an-aim-to-democratize-access-to-therapy-raises-55m">ifeel, Madrid based health-tech startup with an aim to democratize access to therapy, raises €5.5M</h1>
-<h3 id="ifeels-mission-is-to-facilitate-personalized-online-therapy-with-the-help-of-licensed-health-professionals-based-on-a-subscription-model"><em>ifeel’s mission is to facilitate personalized online therapy with the help of licensed health professionals, based on a subscription model.</em></h3>
+        <h1 id="api-versioning-and-support-cycle">API Versioning and Support Cycle</h1>
+<hr />
 
-<p><strong>Madrid, Spain., May. 5, 2021</strong> – ifeel, the disruptive mental health-focused startup, has scored €5.5M in Series A funding led by pan-European Venture Capital firm, Nauta Capital.<br />
-Ifeel is reimagining people’s approach towards caring for their mental health, both on personal and professional fronts. Founded in 2017 as a customer-centric platform, it transitioned to a hybrid model in 2020, answering to a rise in demand from companies looking to invest in the mental well-being of their employees. So, the service is available starting with weekly subscriptions for individuals or under employer’s or insurance provider’s cover.</p>
+<h2 id="versioning">Versioning</h2>
+<p>ABC supports versioning so that our internal and external stakeholders (developers, users, businesses) can stay up-to-date with changes and new releases.</p>
 
-<p>Ifeel stands out from mindfulness apps and other therapy platforms with the help of its AI-powered platform and range of services that focus on providing personalized support. It facilitates one-on-one video therapy sessions with licensed psychologists along with delivering self-care tools like daily mood trackers, guided chats and recommended activities.</p>
+<p>We follow the <a href="https://semver.org/">Semantic Versioning 2.0.0</a> convention.</p>
 
-<p>“The health crisis and new blended employment models create a high need for managers to support remote employees and distant customers”, says Amir Kaplan, CEO, and co-founder of ifeel. “We believe smart emotional support services will be a must-have benefit in the near future as the impact is so high. The safe and anonymous access to ifeel allows employees to improve their life with no need of manager referral,”</p>
+<p>Versions are named as follows: MAJOR.MINOR.PATCH</p>
 
-<p>Comment from Jordi Vinas, General Partner at Nauta Capital aligns with the company’s mission. “We believe iFeel’s approach has an edge over competitors, thanks to having a holistic platform that covers both prevention and intervention and that includes multiple user touchpoints (self-care tools and guided chat and 1-on-1 video therapies), combined with its full integration to business and distribution partners and its global coverage in several languages. We’re excited to join the team in their journey to truly transform the emotional well-being space.”</p>
+<p>A <strong>Major</strong> version is released when backwards-incompatible (outlined below) changes are implemented. Following is a non-exhaustive list of changes that warrants a major version release:</p>
+<ul>
+  <li>Removal of an API endpoint</li>
+  <li>Removal of an API attribute</li>
+  <li>Change in any API data formats</li>
+  <li>Database changes which can not be migrated automatically</li>
+  <li>Change in script syntax, which may break existing scripts</li>
+</ul>
 
-<p>Following a monumental shift in how we define ‘working’ nowadays, it makes complete sense to acknowledge the mental toll it has and will require going forward. ifeel aims to be the bold new solution that equips you with its unique set of self-care tools and therapy services to care for your mental health and beyond.</p>
+<p>A <strong>Minor</strong> version is released on the implementation of backwards-compatible (outlined below) changes. Following is a non-exhaustive list of changes that warrants a minor version release:</p>
+<ul>
+  <li>Addition of an API endpoint</li>
+  <li>Addition of an API attribute</li>
+  <li>Database changes which can be migrated automatically</li>
+  <li>Change in script syntax which can be migrated automatically</li>
+</ul>
 
-<p><strong>About ifeel</strong>:</p>
+<p>A <strong>Patch</strong> version is released with bug fixes and minor improvements which do not cause any backward incompatibility.</p>
 
-<p>ifeel aims to democratize therapy and remove the luxurious aspect attached to it. It’s an AI-powered, emotional well-being platform that offers one-on-one therapy sessions with licensed psychologists and various other self-care tools to empower you to take better care of your mental health. Learn more at <a href="https://ifeel.com/en/">ifeelonline</a>.</p>
+<p>Example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>v1.3.2 - signifies this is the first major release. It has 3 minor versions with 2 patches in this minor version
+</code></pre></div></div>
+
+<h3 id="curious-about-the-latest-changes">Curious about the latest changes?</h3>
+<p>The current version is <strong>v3.4.3</strong>.</p>
+
+<p>You can find more information about our version timelines, release dates and changes on our <a href="https://fakelink.com/releases">changelog</a> page.</p>
+
+<h2 id="deprecation">Deprecation</h2>
+<p>To keep our services in line with customer expectations, certain outdated features are replaced with better functionalities from time to time. APIs are also deprecated to minimize critical security risks and to ensure legal compliance. We take the following steps to mitigate the effect of API deprecations and make the transition smoother for our users:</p>
+<ul>
+  <li>Feature deprecations are released with a minor version.</li>
+  <li>Part of the feature (which needs to be changed) is deprecated before introducing the backwards-incompatible change. This ensures a wide window for clients to prepare for the upcoming change.</li>
+  <li>An alternative is usually available at the time of deprecation so no additional transition time is needed once the backwards-incompatible change is introduced.</li>
+  <li>Deprecated APIs are announced in the changelog of the release where the deprecation was introduced to keep users informed.</li>
+</ul>
+
+<h2 id="support-cycle">Support cycle</h2>
+
+<p>We provide support to each major version for a period of at least two years starting from the first release of that major version. The support cycle for the latest major version is continued until a new major version is released.</p>
+
+<p>During the support period, we do not add minor releases to past major versions, but we may add patch updates if required.</p>
+
+<p>We do not adhere to a fixed release schedule. Our efforts are always geared towards keeping the platform stable with the least amount of incompatible changes. We aim to minimize the number of major releases and guarantee that there won’t be more than one major release per year.</p>
+
+<p>Visit our <a href="https://ankita396.github.io/portfolio/">knowledge base</a> to discover more about our API lifecycle management.</p>
 
 
         <div class="page-footer">
           <div class="page-tag">
             <span>Tags:</span>
             
-            <a href="/portfolio/tags#Press Release" class="tag">| Press Release</a>
+            <a href="/portfolio/tags#API" class="tag">| API</a>
             
-            <a href="/portfolio/tags#Marketing" class="tag">| Marketing</a>
-            
-            <a href="/portfolio/tags#B2B" class="tag">| B2B</a>
+            <a href="/portfolio/tags#Techinical Writing" class="tag">| Techinical Writing</a>
             
             <a href="/portfolio/tags#Sample" class="tag">| Sample</a>
             
