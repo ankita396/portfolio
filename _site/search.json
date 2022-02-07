@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Article Sample",
+      "category" : "",
+      "tags"     : "Article, Article writing, Sample",
+      "url"      : "/portfolio/Carbon_pricing/",
+      "date"     : "2021-11-05 19:20:32 +0100"
+    } ,
+  
+    {
       "title"    : "SEO Content Writing Sample",
       "category" : "",
       "tags"     : "Blog, SEO, B2C, Sample",
@@ -29,14 +37,6 @@
       "category" : "",
       "tags"     : "Email, newsletter, B2C, Sample",
       "url"      : "/portfolio/email-newsletter/",
-      "date"     : "2021-05-21 20:20:32 +0200"
-    } ,
-  
-    {
-      "title"    : "Blog sample (B2B)",
-      "category" : "",
-      "tags"     : "Blog, B2B, Content Marketing, Sample",
-      "url"      : "/portfolio/cannabis-insta/",
       "date"     : "2021-05-21 20:20:32 +0200"
     } ,
   
