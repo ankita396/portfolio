@@ -46,7 +46,7 @@ There have also been a few cases of misreporting of total emissions by huge firm
 As a result, businesses have not made strides in changing technologies and methodologies, as the price to pay for doing business as usual is lower than shifting towards more climate friendly options. Unsurprisingly, these pricing measures [haven’t incentivized innovations](https://www.sciencedirect.com/science/article/pii/S0301421518304063) in the field of clean energy or low carbon technologies as popularly believed. Businesses have instead gone on to choose the least expensive option that fulfills their obligations to their governments.
 
 ## So, what next?  
-Carbon pricing as the primary means of combating the carbon menace is not the best school of thought to follow. Real, tangible change that can be brought on by steps such as phasing out coal, removing subsidies for fossil fuel industries, shifting away from the reliance on carbon intensive technologies are a few compelling steps needed right now. 
+Carbon pricing as the primary means of combating the carbon menace is not the best school of thought to follow. Real, tangible change that can be brought on by steps such as phasing out coal, removing subsidies for fossil fuel industries, shifting away from the reliance on carbon intensive technologies. 
 
 The right way forward would be to run a tight ship of administrators and regulators who would determine fair yet effective carbon prices, keep track of the allowances in emissions tradings, monitor and prevent carbon leakage, while encouraging more businesses to adopt systematic changes in their workings. 
 
