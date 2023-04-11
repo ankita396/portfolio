@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Animation Sample",
+      "category" : "",
+      "tags"     : "Animation, B2B, Technology, Consultancy, Sample",
+      "url"      : "/portfolio/animation/",
+      "date"     : "2023-03-28 20:20:32 +0200"
+    } ,
+  
+    {
+      "title"    : "Presentation Sample",
+      "category" : "",
+      "tags"     : "Presentation, B2B, Technology, Consultancy, Sample",
+      "url"      : "/portfolio/presentation/",
+      "date"     : "2023-03-25 19:20:32 +0100"
+    } ,
+  
+    {
       "title"    : "Technical Writing Sample",
       "category" : "",
       "tags"     : "API, Techinical Writing, Sample",
