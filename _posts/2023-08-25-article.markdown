@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Article sample"
+date:   2023-08-25 20:20:32 +0200
+description: 
+img: data-spaces-diagram.png
+tags: [Article, B2B, Data Spaces, European Union]
+author: Ankita Parida
+---
+# Unlocking the power of Data Spaces:  An introductory guide for business professionals
+
+Data is the indispensable resource needed to survive in today’s ever-changing digital world. Our lives are markedly agile thanks to the large amounts of data being generated and used in decision-making across all sectors of business and governance. From healthcare to urban planning, energy to agriculture, businesses today are more empowered to offer sophisticated solutions to complex problems. But the true potential of using data and its insights is yet to be harnessed. There is still room for improvement in terms of secure data handling, sharing, reuse, and interoperability, created by businesses and the public sector. 
+
+The European data strategy aims to create a single data market to fill this gap. Creating sectoral data spaces where secure, private data exchange can freely take place through the support of technical, economic, and legal infrastructure is the goal. They will enable businesses and public sector firms to securely access, offer, and reuse data for making smart decisions while respecting the privacy and commercial interests of all parties involved. 
+
+## Data spaces
+
+The concept behind the inception of data spaces lies in creating a single market for data where data from multiple sectors is available for use, with rules and standards in place for safe, secure sharing and controlled access by parties. 
+
+### Key characteristics
+
+1. Data Spaces have key characteristics that define and distinguish them from other data arrangements such as:
+
+2. Data holders have full control over what and how much of their data can be accessed by prospective organisations. 
+
+3. Presence of data governance mechanisms ensures that trusted data intermediaries play the roles of overseers and organisers in the sharing of sensitive data.
+
+4. Data made available is reusable, interoperable, understood and processed by different systems, platforms, and stakeholders, both in the public and private domain. 
+
+5. European rules and values towards personal data, consumer protection, and competition law are respected. 
+
+Any number of organisations or individuals are free to be a part of these spaces subject to compliance with set rules and standards. 
+
+The European Commission has adopted the use of Common European data spaces in 10 strategic fields with an aim to “bring together relevant data infrastructures and governance frameworks in order to facilitate data pooling and sharing.” With strong projections indicating a thriving [data economy worth $829 billion by 2025](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the European Commission recognizes the need to tap into the myriad social and economic benefits brought on by data-driven digital solutions. 
+
+![EU data spaces](./../assets/img/EU-data-spaces.png)
+
+These specific strategic data spaces possess high-value datasets from the public sector and private businesses that further give rise to a rich pool of data. With implications ranging from energy-efficient buildings to advanced healthcare, and smart transport systems to high-tech agriculture, the possibilities of using these spaces are endless. 
+
+### Benefits of Data Spaces
+
+High-quality data is at the crux of numerous innovations and developments taking place all over the continent. With the establishment of dedicated data spaces, businesses have the opportunity to take their services and products to the next level. Gaining and sharing access to high-quality data from firms in and across sectors can be a complete game-changer in terms of market research, better user intelligence findings, efficient supply chains, and predictive services, to name a few. 
+
+![Principles of B2B & B2G data sharing](./../assets/img/principles-data-sharing.png)
+*Source: [Guidance on sharing private sector data in the European data economy](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1539766272141&uri=CELEX%3A52018SC0125)*
+
+On the flip side, opening up access to private sector data has the potential to improve public policy-making that’s better attuned to citizen needs. Trustworthy data being readily available also creates a level playing field for businesses, small and large players alike. 
+
+SMEs and startups are at an inherent disadvantage when making their data available or accessing the data already available. Private companies in current times hold truly vast amounts of data that can be beneficial for the government in policy-making, healthcare,  and urban planning, to name a few. 
+
+Meanwhile, the public sector, while possessing a wealth of data, for example, in the field of statistics, still needs to modernise its infrastructure to handle, and use these new data sources. Needless to say, individuals, businesses of all sizes and the public sector have a lot to gain by sharing and using each other’s data to make better-informed decisions. 
+
+### Data collaboration success stories 
+
+Owing to the launch and development of data spaces in several sectors, several businesses have capitalised on these partnerships and produced truly innovative results. 
+
+
+One such example of business-to-business collaboration is **Airbus launching Skywise**. Airbus specialises in designing, manufacturing and providing aerospace products and services, in both the civil and military domains. In 2017, it launched Skywise, a platform that aggregates and offers insights based on the huge amounts of data from multiple systems that were previously underutilised. Client companies can share part of their data that in combination with Airbus’s data system empowers them to reduce delays and disruptions and improve operations.  
+
+Another great example of a B2B data partnership is **Nallian**, a cloud-based platform that enables companies to generate granular insights across their supply chain and logistics. Different stakeholders are able to securely share and reuse data and exchange information leading to high levels of efficiency and transparency. 
+
+How the **Centre for Big Data Statistics (CBS)** works also offers an excellent example of a harmonious data partnership between a public sector firm and companies. CBS relies on its partnerships with several private sector organisations to gather private sector data in order to provide new insights and granular data visualizations to the public. 
+
+### Conclusion
+
+In today’s competitive landscape, businesses are leaving no stone unturned to provide a seamless user experience for their customer base. With such collaborative initiatives present, it only makes sense for businesses falling under the aforementioned data spaces to take advantage of these secure data platforms.  
+
+Big data analyses based on data shared by various stakeholders can help governments and companies to fine-tune their operations. This can lead to significant waste reduction in terms of time and resources, improved efficiency, and overall savings in labour costs. In addition to this, the availability of high-quality data in this cross-sectoral sharing setting will contribute to competitive markets, adoption of greener, sustainable practices, and transparent systems. 
+
+[Get in touch](https://ishared.eu/ishare/contacten/) with iSHARED to find out how you can benefit from being a part of this growing ecosystem. Or [join](https://ishared.eu/ishared/join/) a data space to get started right away. 
+
+
+
+
+
